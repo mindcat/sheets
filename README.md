@@ -1,2 +1,2 @@
-# sheets
-Printable cheat sheets I've made for various classes or interests.
+# arabic
+Resources I built to help myself study for my university arabic courses.
